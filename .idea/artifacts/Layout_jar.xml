@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Layout:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Layout_jar</output-path>
+    <root id="archive" name="Layout.jar">
+      <element id="module-output" name="Layout" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Common/out/artifacts/Common_jar/Common.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
